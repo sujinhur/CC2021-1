@@ -12,9 +12,12 @@
 ![image](https://user-images.githubusercontent.com/74414773/115009336-29272f80-9ee7-11eb-9dca-79141da39568.png)
 
 데이터 8:2로 분리
+
 Multiclass Neural Network 모델 사용
+
 학습시킬 칼럼 : sepal_length, sepal_width, petal_length, petal_width
-분류분류분류할 칼럼 : species
+
+분류할 칼럼 : species
 
 
 
@@ -23,8 +26,11 @@ Multiclass Neural Network 모델 사용
 ![image](https://user-images.githubusercontent.com/74414773/115009193-fd0bae80-9ee6-11eb-84c0-b425cc29bf63.png)
 
 예측 결과 Metrics를 보면 Overall accuracy(전체 정확도)는 0.966667(약 96.7%), Average accuracy(평균 정확도)는 0.977778(약 97.8%)임을 알 수 있다. 
+
 그리고 Micro-averaged precision(전체 평균 정도)는 0.966667이고, Macro-averaged precision(라벨별 각 합의 평균)은 0.962963이다.
+
 마지막으로 Micro-averaged recall(전체 평균)은 0.96667,  Macro-averaged recall(각 열의 산술 평균)은 0.958333이다.
+
 이것으로 Overall accuracy, Micro-averaged precision, Micro-averaged recall은 모두 같음을 알 수 있다.
 
 

@@ -1,13 +1,13 @@
 # CC2021-1
 ## IRIS Msazure result
 
-> 1. 데이터 업로드
+### 1. 데이터 업로드
 
 ![image](https://user-images.githubusercontent.com/74414773/115009498-4d830c00-9ee7-11eb-80ec-20146586f2d2.png)
 
 .
 
-> 2. 모델 생성 및 실행
+### 2. 모델 생성 및 실행
 
 ![image](https://user-images.githubusercontent.com/74414773/115009336-29272f80-9ee7-11eb-9dca-79141da39568.png)
 
@@ -22,7 +22,7 @@
 .
 
 
-> 3. 결과
+### 3. 결과
 
 ![image](https://user-images.githubusercontent.com/74414773/115009193-fd0bae80-9ee6-11eb-84c0-b425cc29bf63.png)
 

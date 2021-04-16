@@ -5,7 +5,7 @@
 
 ![image](https://user-images.githubusercontent.com/74414773/115009498-4d830c00-9ee7-11eb-80ec-20146586f2d2.png)
 
--------------------
+
 
 > 2. 모델 생성 및 실행
 
@@ -19,7 +19,7 @@ Multiclass Neural Network 모델 사용
 
 분류할 칼럼 : species
 
--------------------
+
 
 > 3. 결과
 
